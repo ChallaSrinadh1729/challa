@@ -1,2 +1,7 @@
-# challa
-A collection of data analysis projects using Python (Pandas, NumPy, Matplotlib), SQL, Tableau, and Power BI. Includes data cleaning, exploration, visualization, and business insights from real-world datasets. Showcases skills in statistical analysis, predictive modeling, and data-driven decision-making.
+# Data Analyst Portfolio Project Repository
+
+This Repository will hold all of the code and queries from the Portfolio Projects we create.
+
+Please feel free to take these and run with them. Make them your own and find you own insights
+
+I really do hope this is helpful and helps you land that dream job! :D
